@@ -1,5 +1,12 @@
 # chat-app-tcp
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/chat-app-tcp/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/chat-app-tcp/actions)
+![License](https://img.shields.io/github/license/yksanjo/chat-app-tcp)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/chat-app-tcp)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/chat-app-tcp)
+
 ## Detailed Description
 
 chat-app-tcp is maintained as an industry-grade software project with production-ready engineering practices.  
